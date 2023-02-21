@@ -19,8 +19,8 @@ public class PlayerControllerX : MonoBehaviour
     void FixedUpdate()
     {
         // get the user's vertical input
-        verticalInput = Input.GetAxis("Vertical");
-        horizontalInput = Input.GetAxis("Horizontal");
+        verticalInput = Input.GetAxis("Vertical1");
+        horizontalInput = Input.GetAxis("Horizontal1");
 
         // move the plane forward at a constant rate
         transform.Translate(Vector3.forward * Time.deltaTime * speed * verticalInput);
