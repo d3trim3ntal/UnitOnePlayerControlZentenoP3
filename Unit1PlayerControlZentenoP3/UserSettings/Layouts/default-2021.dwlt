@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1711
     height: 1341
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 16
+  controlID: 20
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 17
+  controlID: 21
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 18
+  controlID: 22
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Challenge 1/Scripts
+    - Assets/Course Library/Obstacles
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Challenge 1/Scripts
+  - Assets/Course Library/Obstacles
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\755886\Documents\Unity\GitHub\UnitOnePlayerControlZentenoP3\Unit1PlayerControlZentenoP3
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 3a740000
-    m_LastClickedID: 29754
-    m_ExpandedIDs: 00000000805b0000825b0000a25b0000c86f0000e66f000000ca9a3bffffff7f
+    m_SelectedIDs: 765b0000
+    m_LastClickedID: 23414
+    m_ExpandedIDs: 00000000445b0000465b0000705b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000805b0000825b0000
+    m_ExpandedIDs: 00000000445b0000465b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -387,7 +387,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -488,9 +488,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 8a740000
-      m_LastClickedID: 29834
-      m_ExpandedIDs: 3467ffff8c8bffffe492ffffbcfaffff32fbffff245a0000
+      m_SelectedIDs: b05b0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 70f9ffff32fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -739,9 +739,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 5.5839176, y: 2.4839163, z: 55.18364}
+    m_Target: {x: 24.867456, y: 22.97298, z: 50.168034}
     speed: 2
-    m_Value: {x: 5.5839176, y: 2.4839163, z: 55.18364}
+    m_Value: {x: 24.867456, y: 22.97298, z: 50.168034}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -788,13 +788,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.054011386, y: -0.9187408, z: 0.1348715, w: 0.36705187}
+    m_Target: {x: -0.32050565, y: 0.51450914, z: -0.21510774, w: -0.765646}
     speed: 2
-    m_Value: {x: 0.05381119, y: -0.91932744, z: 0.1349578, w: 0.36568812}
+    m_Value: {x: -0.3208394, y: 0.5133784, z: -0.21463439, w: -0.7664442}
   m_Size:
-    m_Target: 8.623892
+    m_Target: 1.3672196
     speed: 2
-    m_Value: 8.252528
+    m_Value: 1.4316435
   m_Ortho:
     m_Target: 0
     speed: 2
